@@ -1,3 +1,6 @@
+ [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14942321)](https://stackoverflow.com/users/14942321/dipak-kadam)
+
+  
 
 
 ### GitHub Stats:
@@ -15,6 +18,7 @@
 <!--       <img src="https://user-images.githubusercontent.com/73031725/137621641-eb0e1dbe-c625-405c-bd0f-fc3ab1454943.gif" width="80px"> -->
     </p>
   </tr>
+
 </table>
   
 
@@ -31,6 +35,3 @@
  
 
 
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14942321)](https://stackoverflow.com/users/14942321/dipak-kadam) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=dmk07"/>|
-|---|---|
- 
