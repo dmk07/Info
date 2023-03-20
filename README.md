@@ -31,18 +31,6 @@
  
 
 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-dmk07/Dipak Profile.md at main · dmk07/dmk07 
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16058244)](https://stackoverflow.com/users/14942321/dipak-kadam) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Nishant-Bhosale"/>|
+|---|---|
+ 
