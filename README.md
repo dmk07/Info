@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@dmk07 
-dmk07
-/
-dmk07
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-dmk07/Dipak Profile.md
-@dmk07
-dmk07 Rename README.md to Dipak Profile.md
-Latest commit fbb82c5 2 hours ago
- History
- 1 contributor
-31 lines (18 sloc)  940 Bytes
+
 
 ### GitHub Stats:
 
