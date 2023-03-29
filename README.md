@@ -14,3 +14,14 @@
 
 
 [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14942321)](https://stackoverflow.com/users/14942321/dipak-kadam)  
+
+### ⚙ Github Analytics
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmk07&theme=nord_dark">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dmk07&theme=nord_dark" >
+</p>
+
+
+![Profile views](https://profile-counter.glitch.me/dmk07/count.svg)
+
