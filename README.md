@@ -3,7 +3,7 @@
  
  
 ![](https://github-readme-stats.vercel.app/api?username=dmk07&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=dmk07&theme=radical&hide_border=false)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dmk07&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dmk07&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
